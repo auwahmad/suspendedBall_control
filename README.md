@@ -6,8 +6,8 @@ This repository supports coursework and demonstrations for the **Suspended Ball 
 
 ## 📁 Repository Structure
 
-- `Coursework_MATLAB_v2/`: Contains student materials and links to associated Simulink models.
-- `Solutions/`: Includes separate Simulink files with complete solutions for each stage of the coursework.
+- `Coursework_MATLAB_v2`: Main MALTAB Live Script file with links to associated Simulink models.
+- `_sol`: are the separate Simulink files with complete solutions for each stage of the coursework.
 
 ---
 
@@ -35,7 +35,7 @@ This repository supports coursework and demonstrations for the **Suspended Ball 
 
 ## 🧑‍🏫 Intended Use
 
-This repository is designed for educational purposes and is part of a university-level control systems course. Students are encouraged to use the `Coursework_MATLAB_v2` folder for guided exploration, while the `Solutions` folder should be referred to for verification and deeper insights.
+This repository is designed for educational purposes and is part of a university-level control systems course. Students are encouraged to use the `Coursework_MATLAB_v2` for guided exploration, while the `Solutions` folder should be referred to for verification and deeper insights.
 
 ---
 
