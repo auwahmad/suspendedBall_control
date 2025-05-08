@@ -41,7 +41,7 @@ This repository is designed for educational purposes and is part of a university
 
 ## 💡 Note
 
-Some Simulink model links in `Coursework_MATLAB_v2` may point to external paths or resources. All necessary solution files are provided separately in the `Solutions` directory for completeness.
+Some Simulink model links in `Coursework_MATLAB_v2` may point to external paths or resources. All necessary solution files are provided separately as `_sol` files for completeness.
 
 ---
 
@@ -53,9 +53,10 @@ Some Simulink model links in `Coursework_MATLAB_v2` may point to external paths 
 
 ---
 
-## 🔗 Getting Started
+## 🔍 Reference
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/suspended-ball-control.git
-   cd suspended-ball-control
+This project draws on concepts from the Control Tutorials for MATLAB and Simulink (CTMS):
+
+[State-Space Control – Control Tutorials for MATLAB and Simulink (CTMS)](https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=ControlStateSpace)  
+© University of Michigan, Carnegie Mellon University, and Detroit Mercy
+
